@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Midu Mojumder .
 #### Student
-![Student](https://drive.google.com/file/d/1HkmSvPMQUUy_pnTmAMMdF46N4DPoZSHU/view?usp=sharing)
+![Student](https://avatars.githubusercontent.com/u/69474524?s=400&u=71eb5fc18976642891f6af6fb3402a9cac7a6c51&v=4)
 
 Studies B.Sc in Computer Science & Engineering at Shahjalal University of Science & Technology, Sylhet
 
