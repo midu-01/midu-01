@@ -7,7 +7,7 @@ Studies B.Sc in Computer Science & Engineering at Shahjalal University of Scienc
 Skills: C / C++ / Python / HTML / CSS 
 
 - 🔭 I’m currently working on My GitHub Profile 
-- 🌱 I’m currently learning Pyhton 
+- 🌱 I’m currently learning Pyhton and unreal engine 4 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Nothing 
 - ⚡ Fun fact: CP , Movie , TV show , Mobile Game 
